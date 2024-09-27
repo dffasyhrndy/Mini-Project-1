@@ -31,3 +31,9 @@ def hitung_gaji():
 #### if ulang == "t":
 #### break
 #### print("Terimakasih")
+
+### Output ketika jam kerja tidak lebih dari 160 jam dan memilih tidak menghitung ulang gaji
+![Screenshot 2024-09-27 192715](https://github.com/user-attachments/assets/5f56ebce-9bd6-478b-a7a2-e211e3c3cf8d)
+
+### Output ketika jam kerja lebih dari 160 jam dan memilih menghitung ulang gaji
+![Screenshot 2024-09-27 192731](https://github.com/user-attachments/assets/03b9a5da-c988-4f27-8656-e6c8cc5f6817)
