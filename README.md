@@ -3,7 +3,8 @@
 ### NIM : 2409116069
 
 ### FLOWCHART
-![Mini Project 1](https://github.com/user-attachments/assets/2c550463-60fa-42f4-aa5c-a1c8f1102952)
+![Mini Project 1 (1)](https://github.com/user-attachments/assets/d428e5a5-9189-4f01-b775-6180e62bf3d2)
+
 
 
 
