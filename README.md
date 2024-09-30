@@ -27,7 +27,8 @@
 
 ### 3. Penambahan bonus dari 10% gaji jika jam kerja lebih dari 160 jam menggunakan if dan else
 #### if jam_kerja > 160:
-#### bonus = 0.10 * gaji + gaji
+#### bonus = 0.10 * gaji
+#### total_gaji = bonus + gaji
 #### print("Ini adalah gaji dan bonus anda", bonus)
 #### else:
 #### print("Anda tidak mendapatkan bonus")
