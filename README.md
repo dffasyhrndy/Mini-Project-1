@@ -3,7 +3,8 @@
 ### NIM : 2409116069
 
 ### FLOWCHART
-![Mini Project 1 (1)](https://github.com/user-attachments/assets/d428e5a5-9189-4f01-b775-6180e62bf3d2)
+![Mini Project 1 hehe](https://github.com/user-attachments/assets/19d1b902-8737-49dd-afd9-c46704550356)
+
 
 
 
@@ -12,7 +13,13 @@
 ### 1. def berguna untuk mendefinisikan sebuah fungsi, dan fungsi yang dipakai adalah hitung_gaji()
 def hitung_gaji():
 
-### 2. Penginputan jam kerja dan tarif per jam serta menghitung gaji
+### 2. Penginputan nama, nim, jam kerja dan tarif per jam serta menghitung gaji
+#### nama = str(input("Masukkan Nama Anda: "))
+#### nim = int(input("Masukkan NIM Anda: "))
+#### print("Login Berhasil!")
+#### print()
+#### print("Halo" , nama , "selamat menghitung gaji")
+#### print()
 #### jam_kerja = int(input("Masukkan Jam Kerja: "))
 #### tarif_kerja = int(input("Masukkan Tarif Kerja: "))
 #### gaji = jam_kerja * tarif_kerja
@@ -34,7 +41,9 @@ def hitung_gaji():
 #### print("Terimakasih")
 
 ### Output ketika jam kerja tidak lebih dari 160 jam dan memilih tidak menghitung ulang gaji
-![Screenshot 2024-09-27 192715](https://github.com/user-attachments/assets/5f56ebce-9bd6-478b-a7a2-e211e3c3cf8d)
+![Screenshot 2024-09-30 213228](https://github.com/user-attachments/assets/6e87898e-dfcc-4b5e-988f-5efd7311353d)
+
 
 ### Output ketika jam kerja lebih dari 160 jam dan memilih menghitung ulang gaji
-![Screenshot 2024-09-27 192731](https://github.com/user-attachments/assets/03b9a5da-c988-4f27-8656-e6c8cc5f6817)
+![Screenshot 2024-09-30 213400](https://github.com/user-attachments/assets/cd9b41fa-49c0-4567-ba22-6eb7b9a231a8)
+
