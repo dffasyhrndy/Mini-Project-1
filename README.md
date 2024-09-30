@@ -10,7 +10,7 @@
 
 
 ### Penjelasan Code 
-### 1. def berguna untuk mendefinisikan sebuah fungsi, dan fungsi yang dipakai adalah hitung_gaji()
+### 1. def berguna untuk mendefinisikan sebuah fungsi
 #### def hitung_gaji():
 
 ### 2. Penginputan nama, nim, jam kerja dan tarif per jam serta menghitung gaji
