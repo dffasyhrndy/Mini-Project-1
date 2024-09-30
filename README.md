@@ -11,7 +11,7 @@
 
 ### Penjelasan Code 
 ### 1. def berguna untuk mendefinisikan sebuah fungsi, dan fungsi yang dipakai adalah hitung_gaji()
-def hitung_gaji():
+#### def hitung_gaji():
 
 ### 2. Penginputan nama, nim, jam kerja dan tarif per jam serta menghitung gaji
 #### nama = str(input("Masukkan Nama Anda: "))
